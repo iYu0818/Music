@@ -377,3 +377,15 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 2023-02-24 17:23:10 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
 2023-02-24 17:23:10 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
 2023-02-24 17:23:10 INFO [com.example.yin.IYuMusicApplication]: Started IYuMusicApplication in 4.819 seconds (JVM running for 6.658)
+2023-02-24 17:29:42 INFO [com.example.yin.IYuMusicApplication]: Starting IYuMusicApplication using Java 1.8.0_172 on iYu with PID 18644 (G:\IDEAProject\music\music-website\music-server\target\classes started by chengyu in G:\IDEAProject\music\music-website)
+2023-02-24 17:29:42 INFO [com.example.yin.IYuMusicApplication]: The following profiles are active: dev
+2023-02-24 17:29:42 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-24 17:29:42 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-24 17:29:43 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-24 17:29:43 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-24 17:29:43 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2023-02-24 17:29:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-02-24 17:29:46 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3430 ms
+2023-02-24 17:29:47 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-02-24 17:29:47 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-02-24 17:29:47 INFO [com.example.yin.IYuMusicApplication]: Started IYuMusicApplication in 4.672 seconds (JVM running for 6.43)
