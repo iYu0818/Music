@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d088c3f7-f124-4ba5-9d95-e7168638c140" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\plugin\maven_Repository" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="G:\plugin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FKvLqFjL4kScKs2KK4LE4vUCEA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37170264" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\IDEAProject\music-website" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="music-server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="music-server" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iYuMusicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="iYu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yin.IYuMusicApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d088c3f7-f124-4ba5-9d95-e7168638c140" name="Default Changelist" comment="" />
+      <created>1664253536327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664253536327</updated>
+      <workItem from="1664253537426" duration="1236000" />
+      <workItem from="1677071397706" duration="344000" />
+      <workItem from="1677072525885" duration="88000" />
+      <workItem from="1677073272231" duration="1695000" />
+      <workItem from="1677080929938" duration="2719000" />
+      <workItem from="1677086708908" duration="819000" />
+      <workItem from="1677229282547" duration="1574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/music-server" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" width="1186" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1677230010794">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" width="1186" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677230010794" />
+    <state x="736" y="338" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1677229319853">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="736" y="338" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677229319853" />
+    <state x="527" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1677229660511">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="527" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677229660511" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1677074591641">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1677074591641" />
+    <state x="832" y="422" key="Github.ShareDialog" timestamp="1677230636768">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677230636768" />
+    <state x="680" y="228" key="Github.UntrackedFilesDialog" timestamp="1677230650590">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="680" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677230650590" />
+    <state width="1877" height="125" key="GridCell.Tab.0.bottom" timestamp="1677230876445">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876445" />
+    <state width="1877" height="125" key="GridCell.Tab.0.center" timestamp="1677230876445">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876445" />
+    <state width="1877" height="125" key="GridCell.Tab.0.left" timestamp="1677230876445">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876445" />
+    <state width="1877" height="125" key="GridCell.Tab.0.right" timestamp="1677230876445">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876445" />
+    <state width="1877" height="125" key="GridCell.Tab.1.bottom" timestamp="1677230876446">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876446" />
+    <state width="1877" height="125" key="GridCell.Tab.1.center" timestamp="1677230876446">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876446" />
+    <state width="1877" height="125" key="GridCell.Tab.1.left" timestamp="1677230876445">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876445" />
+    <state width="1877" height="125" key="GridCell.Tab.1.right" timestamp="1677230876446">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1677230876446" />
+    <state x="440" y="99" key="SettingsEditor" timestamp="1677230824727">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1677230824727" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1677230417385">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1677230417385" />
+    <state x="334" y="185" key="new project wizard" timestamp="1677074647696">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="185" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1677074647696" />
+  </component>
+</project>
