@@ -27,12 +27,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d088c3f7-f124-4ba5-9d95-e7168638c140" name="Default Changelist" comment="编写文档">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/musicWebsite" beforeDir="false" afterPath="$PROJECT_DIR$/logs/musicWebsite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/common/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Singer.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Singer.java" afterDir="false" />
-    </list>
+    <list default="true" id="d088c3f7-f124-4ba5-9d95-e7168638c140" name="Default Changelist" comment="编写文档" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -319,10 +314,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1680684918928" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1680531459119">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1680685661882">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1680531459119" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1680685661882" />
     <state x="763" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1677231130161">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
