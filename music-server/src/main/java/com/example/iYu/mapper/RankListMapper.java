@@ -5,6 +5,13 @@ import com.example.iYu.model.domain.RankList;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 
+/**
+* @Description: 评分mapper
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/2/23
+*/
 @Repository
 public interface RankListMapper extends BaseMapper<RankList> {
 

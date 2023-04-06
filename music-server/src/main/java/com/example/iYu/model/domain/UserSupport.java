@@ -7,8 +7,11 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * 
- * @TableName user_support
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/22
  */
 @Data
 public class UserSupport implements Serializable {
@@ -55,6 +58,35 @@ public class UserSupport implements Serializable {
         result = prime * result + ((getCommentId() == null) ? 0 : getCommentId().hashCode());
         result = prime * result + ((getUserId() == null) ? 0 : getUserId().hashCode());
         return result;
+    }
+
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public Integer getCommentId() {
+        return commentId;
+    }
+
+    public void setCommentId(Integer commentId) {
+        this.commentId = commentId;
+    }
+
+    public Integer getUserId() {
+        return userId;
+    }
+
+    public void setUserId(Integer userId) {
+        this.userId = userId;
+    }
+
+    public static long getSerialVersionUID() {
+        return serialVersionUID;
     }
 
     @Override

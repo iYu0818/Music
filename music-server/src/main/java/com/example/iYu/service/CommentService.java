@@ -5,6 +5,13 @@ import com.example.iYu.common.R;
 import com.example.iYu.model.domain.Comment;
 import com.example.iYu.model.request.CommentRequest;
 
+/**
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/26
+ */
 public interface CommentService extends IService<Comment> {
 
     R addComment(CommentRequest addCommentRequest);

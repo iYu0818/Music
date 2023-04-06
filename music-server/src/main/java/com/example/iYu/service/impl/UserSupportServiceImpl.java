@@ -12,9 +12,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author asus
- * @description 针对表【user_support】的数据库操作Service实现
- * @createDate 2022-06-11 16:06:28
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/27
  */
 @Service
 public class UserSupportServiceImpl extends ServiceImpl<UserSupportMapper, UserSupport>

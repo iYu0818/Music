@@ -3,9 +3,12 @@ package com.example.iYu.common;
 import lombok.Data;
 
 /**
- * @Author 祝英台炸油条
- * @Time : 2022/6/4 19:04
- **/
+* @Description:  返回前端封装的结果类
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/6
+*/
 @Data
 public class R {
 

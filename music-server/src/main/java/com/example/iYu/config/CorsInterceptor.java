@@ -1,11 +1,16 @@
 package com.example.iYu.config;
-
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
-
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
+/**
+* @Description:
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/8
+*/
 public class CorsInterceptor extends HandlerInterceptorAdapter {
 
     @Override

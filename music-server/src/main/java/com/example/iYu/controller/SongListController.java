@@ -7,6 +7,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
+/**
+* @Description: 歌单controller
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/16
+*/
 @RestController
 public class SongListController {
 
@@ -26,8 +33,7 @@ public class SongListController {
         return songListService.deleteSongList(id);
     }
 
-    //TODO 这块就是前端显现相应的歌单list
-    // 返回所有歌单
+    // 这块就是前端显现相应的歌单list  返回所有歌单
     @GetMapping("/songList")
     public R allSongList() {
         return songListService.allSongList();

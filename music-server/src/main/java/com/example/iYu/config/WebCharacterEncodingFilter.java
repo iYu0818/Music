@@ -1,5 +1,4 @@
 package com.example.iYu.config;
-
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.http.converter.StringHttpMessageConverter;
@@ -10,14 +9,14 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
-/**
- * 说明：解决以下问题
- * <p>
- *     因使用WebMvcConfigurer加载静态时 url encode编码无法解析为正常中文问题
- * </p>
- *
- */
 
+/**
+* @Description: 因使用WebMvcConfigurer加载静态时 url encode编码无法解析为正常中文问题
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/6
+*/
 @EnableWebMvc
 @Configuration
 public class WebCharacterEncodingFilter implements WebMvcConfigurer {

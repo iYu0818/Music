@@ -15,6 +15,13 @@ import org.springframework.web.multipart.MultipartFile;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/27
+ */
 @Service
 public class SingerServiceImpl extends ServiceImpl<SingerMapper, Singer> implements SingerService {
 

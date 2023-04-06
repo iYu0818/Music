@@ -6,10 +6,12 @@ import com.example.iYu.model.domain.UserSupport;
 import com.example.iYu.model.request.UserSupportRequest;
 
 /**
- * @author asus
- * @description 针对表【user_support】的数据库操作Service
- * @createDate 2022-06-11 16:06:28
- */
+* @Description: 针对表【user_support】的数据库操作Service
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/2/26
+*/
 public interface UserSupportService extends IService<UserSupport> {
 
     R isUserSupportComment(UserSupportRequest userSupportRequest);

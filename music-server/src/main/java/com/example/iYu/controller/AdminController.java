@@ -11,13 +11,18 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpSession;
 
 /**
- * 后台管理的相关事宜
- */
+* @Description: 后台管理员管理
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/2/26
+*/
 @RestController
 public class AdminController {
+
+    //注入Adminservice
     @Autowired
     private AdminService adminService;
-
     // 判断是否登录成功
     @PostMapping("/admin/login/status")
     public R loginStatus(@RequestBody AdminRequest adminRequest, HttpSession session) {

@@ -7,6 +7,13 @@ import com.example.iYu.model.request.ListSongRequest;
 
 import java.util.List;
 
+/**
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/26
+ */
 public interface ListSongService extends IService<ListSong> {
 
     R addListSong(ListSongRequest addListSongRequest);
