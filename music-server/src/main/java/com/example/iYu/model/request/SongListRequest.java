@@ -3,9 +3,12 @@ package com.example.iYu.model.request;
 import lombok.Data;
 
 /**
- * @Author 祝英台炸油条
- * @Time : 2022/6/6 20:38
- **/
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/3/17
+ */
 @Data
 public class SongListRequest {
     private Integer id;

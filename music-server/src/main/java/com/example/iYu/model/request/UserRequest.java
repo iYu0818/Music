@@ -5,10 +5,12 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @Author 祝英台炸油条
- * @Time : 2022/6/5 19:35
- * 这块 现在尝试把所有有关用户的属性都放入
- **/
+ * @Description:这块 现在尝试把所有有关用户的属性都放入
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/3/17
+ */
 @Data
 public class UserRequest {
     private Integer id;
