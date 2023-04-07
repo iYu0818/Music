@@ -11,6 +11,13 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/**
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/27
+ */
 @Service
 public class CollectServiceImpl extends ServiceImpl<CollectMapper, Collect> implements CollectService {
     @Autowired

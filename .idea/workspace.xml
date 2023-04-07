@@ -31,7 +31,60 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/musicWebsite" beforeDir="false" afterPath="$PROJECT_DIR$/logs/musicWebsite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/common/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/CorsInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/CorsInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/WebCharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/WebCharacterEncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/WebPicConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/config/WebPicConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/constant/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/constant/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/BannerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/BannerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/CollectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/CollectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/ListSongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/ListSongController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/RankListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/RankListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/SingerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/SingerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/SongController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/SongListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/SongListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/UserSupportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/controller/UserSupportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/handler/MyMetaObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/AdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/AdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/BannerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/BannerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/CollectMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/CollectMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/CommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/CommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/ConsumerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/ListSongMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/ListSongMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/RankListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/RankListMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/SingerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/SingerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/SongListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/SongListMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/SongMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/SongMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/UserSupportMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/mapper/UserSupportMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Banner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Collect.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Collect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/ListSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/ListSong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/RankList.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/RankList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Singer.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Singer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/SongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/SongList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/UserSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/domain/UserSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/AdminRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/AdminRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/CollectRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/CollectRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/CommentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/CommentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/ConsumerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/UserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/ListSongRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/ListSongRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/RankListRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/RankListRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/SingerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/SingerRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/SongListRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/SongListRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/SongRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/SongRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/UserSupportRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/model/request/UserSupportRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/service/ConsumerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/service/impl/ConsumerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/java/com/example/iYu/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/main/resources/mapper/ConsumerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-server/src/test/java/com/example/iYu/YinMusicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-server/src/test/java/com/example/iYu/YinMusicApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +143,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="music-server" />
       <option name="VM_PARAMETERS" />
@@ -184,6 +250,7 @@
       <workItem from="1680323634577" duration="6000" />
       <workItem from="1680530291729" duration="4540000" />
       <workItem from="1680684529510" duration="392000" />
+      <workItem from="1680782299893" duration="5427000" />
     </task>
     <task id="LOCAL-00001" summary="编写文档">
       <created>1677231161485</created>
@@ -220,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680530421633</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="编写文档">
+      <created>1680685761371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680685761371</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,18 +329,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="704" y="360" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1679509603227" />
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1680533329868">
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1680785292157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1680533329868" />
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1680785292157" />
     <state x="736" y="338" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1677229319853">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="736" y="338" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677229319853" />
-    <state x="527" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1677229660511">
+    <state x="736" y="391" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1680787200565">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="527" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677229660511" />
+    <state x="736" y="391" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1680787200565" />
+    <state x="154" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1680782640029">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="154" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1680782640029" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1680787125561">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1680787125561" />
     <state x="740" y="278" width="427" height="492" key="FileChooserDialogImpl" timestamp="1679509595323">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -279,38 +361,38 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="680" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1677230934595" />
-    <state width="1877" height="201" key="GridCell.Tab.0.bottom" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1680785311462">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.0.center" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311462" />
+    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1680785311462">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.0.left" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311462" />
+    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1680785311462">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.0.right" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311462" />
+    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1680785311462">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.1.bottom" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311462" />
+    <state width="1877" height="189" key="GridCell.Tab.1.bottom" timestamp="1680785311463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.1.center" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311463" />
+    <state width="1877" height="189" key="GridCell.Tab.1.center" timestamp="1680785311463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.1.left" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311463" />
+    <state width="1877" height="189" key="GridCell.Tab.1.left" timestamp="1680785311462">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
-    <state width="1877" height="201" key="GridCell.Tab.1.right" timestamp="1680539840596">
+    <state width="1877" height="189" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311462" />
+    <state width="1877" height="189" key="GridCell.Tab.1.right" timestamp="1680785311463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1680539840596" />
+    <state width="1877" height="189" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1680785311463" />
     <state x="531" y="175" width="858" height="535" key="Registry" timestamp="1677343301449">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -319,10 +401,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1680684918928" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1680531459119">
+    <state x="806" y="439" key="VCS.ChangelistChooser" timestamp="1680786766431">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1680531459119" />
+    <state x="806" y="439" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1680786766431" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1680685918414">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1680685918414" />
     <state x="763" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1677231130161">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

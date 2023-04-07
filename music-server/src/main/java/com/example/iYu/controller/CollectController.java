@@ -1,11 +1,17 @@
 package com.example.iYu.controller;
-
 import com.example.iYu.common.R;
 import com.example.iYu.model.request.CollectRequest;
 import com.example.iYu.service.CollectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+/**
+* @Description: 收藏controller
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/20
+*/
 @RestController
 public class CollectController {
 
@@ -20,8 +26,7 @@ public class CollectController {
         return collectService.addCollection(addCollectRequest);
     }
 
-    //TODO  这些其实有点偏简单的逻辑  所以就一点 所以放在外面  拿到里面
-    // 取消收藏的歌曲
+    // 取消收藏的歌曲 这些其实有点偏简单的逻辑  所以就一点 所以放在外面  拿到里面
     @DeleteMapping("/collection/delete")
     public R deleteCollection(@RequestParam Integer userId, @RequestParam Integer songId) {
         return collectService.deleteCollect(userId, songId);

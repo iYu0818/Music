@@ -10,9 +10,12 @@ import com.example.iYu.model.request.RankListRequest;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 /**
- * @author Administrator
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/27
  */
 @Service
 public class RankListServiceImpl extends ServiceImpl<RankListMapper, RankList> implements RankListService {

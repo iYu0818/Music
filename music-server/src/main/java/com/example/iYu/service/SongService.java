@@ -6,6 +6,13 @@ import com.example.iYu.model.domain.Song;
 import com.example.iYu.model.request.SongRequest;
 import org.springframework.web.multipart.MultipartFile;
 
+/**
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/26
+ */
 public interface SongService extends IService<Song> {
 
     R addSong (SongRequest addSongRequest,  MultipartFile mpfile);

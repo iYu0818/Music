@@ -8,6 +8,13 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 
 import java.util.Date;
 
+/**
+ * @Description:歌手实体
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/22
+ */
 @TableName(value = "singer")
 @Data
 public class Singer {
@@ -27,10 +34,6 @@ public class Singer {
 
     private String introduction;
 
-    @Override
-    public String toString() {
-        return ToStringBuilder.reflectionToString(this);
-    }
 
     public Integer getId() {
         return id;
@@ -86,5 +89,19 @@ public class Singer {
 
     public void setIntroduction(String introduction) {
         this.introduction = introduction;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Singer{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", sex=" + sex +
+                ", pic='" + pic + '\'' +
+                ", birth=" + birth +
+                ", location='" + location + '\'' +
+                ", introduction='" + introduction + '\'' +
+                '}';
     }
 }

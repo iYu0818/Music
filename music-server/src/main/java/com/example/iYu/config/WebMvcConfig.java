@@ -6,9 +6,12 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @Author
- * @Time : 2022/6/7 17:08
- **/
+* @Description:  MVC资源路径配置
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/8
+*/
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {
 

@@ -3,11 +3,13 @@ package com.example.iYu.model.request;
 import lombok.Data;
 
 import java.util.Date;
-
 /**
- * @Author 祝英台炸油条
- * @Time : 2022/6/6 20:14
- **/
+ * @Description:
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/3/17
+ */
 @Data
 public class SingerRequest {
     private Integer id;
@@ -23,4 +25,73 @@ public class SingerRequest {
     private String location;
 
     private String introduction;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Byte getSex() {
+        return sex;
+    }
+
+    public void setSex(Byte sex) {
+        this.sex = sex;
+    }
+
+    public String getPic() {
+        return pic;
+    }
+
+    public void setPic(String pic) {
+        this.pic = pic;
+    }
+
+    public Date getBirth() {
+        return birth;
+    }
+
+    public void setBirth(Date birth) {
+        this.birth = birth;
+    }
+
+    public String getLocation() {
+        return location;
+    }
+
+    public void setLocation(String location) {
+        this.location = location;
+    }
+
+    public String getIntroduction() {
+        return introduction;
+    }
+
+    public void setIntroduction(String introduction) {
+        this.introduction = introduction;
+    }
+
+    @Override
+    public String toString() {
+        return "SingerRequest{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", sex=" + sex +
+                ", pic='" + pic + '\'' +
+                ", birth=" + birth +
+                ", location='" + location + '\'' +
+                ", introduction='" + introduction + '\'' +
+                '}';
+    }
 }

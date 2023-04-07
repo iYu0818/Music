@@ -5,8 +5,11 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * 
- * @TableName banner
+ * @Description:横幅实体
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/22
  */
 @Data
 public class Banner implements Serializable {
@@ -58,5 +61,26 @@ public class Banner implements Serializable {
         sb.append(", serialVersionUID=").append(serialVersionUID);
         sb.append("]");
         return sb.toString();
+    }
+
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getPic() {
+        return pic;
+    }
+
+    public void setPic(String pic) {
+        this.pic = pic;
+    }
+
+    public static long getSerialVersionUID() {
+        return serialVersionUID;
     }
 }

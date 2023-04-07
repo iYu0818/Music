@@ -33,7 +33,9 @@ public class SongController {
 
     // 添加歌曲
     @PostMapping("/song/add")
-    public R addSong(@RequestBody SongRequest addSongRequest, @RequestParam("file") MultipartFile mpfile) {
+
+    //不能加@ResponseBody注解，这样回报格式不正确的错误
+    public R addSong(SongRequest addSongRequest, @RequestParam("file") MultipartFile mpfile) {
         return songService.addSong(addSongRequest,mpfile);
     }
 

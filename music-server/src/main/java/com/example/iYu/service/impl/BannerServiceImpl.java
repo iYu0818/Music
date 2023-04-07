@@ -9,11 +9,12 @@ import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-
 /**
- * @author asus
- * @description 针对表【banner】的数据库操作Service实现
- * @createDate 2022-06-13 13:13:42
+ * @Description:针对表【banner】的数据库操作Service实现
+ * @Param:
+ * @return:
+ * @Author: 程煜
+ * @Date: 2023/2/27
  */
 @Service
 public class BannerServiceImpl extends ServiceImpl<BannerMapper, Banner>

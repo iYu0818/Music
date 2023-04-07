@@ -6,6 +6,14 @@ import com.example.iYu.service.RankListService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+
+/**
+* @Description: 评分controller
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/4/5
+*/
 @RestController
 public class RankListController {
 

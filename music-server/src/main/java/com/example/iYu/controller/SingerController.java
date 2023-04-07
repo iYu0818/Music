@@ -7,9 +7,18 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
+
+/**
+* @Description: 歌手controller
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/4/6
+*/
 @RestController
 public class SingerController {
 
+    //注入SingerService
     @Autowired
     private SingerService singerService;
 

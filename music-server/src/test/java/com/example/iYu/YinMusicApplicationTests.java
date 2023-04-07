@@ -1,6 +1,6 @@
 package com.example.iYu;
 
-import com.example.iYu.service.impl.ConsumerServiceImpl;
+import com.example.iYu.service.impl.UserServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +15,7 @@ public class YinMusicApplicationTests {
     // private SongServiceImpl songService;
     // private SingerServiceImpl singerService;
     // private SongListServiceImpl songListService;
-    private ConsumerServiceImpl consumerService;
+    private UserServiceImpl consumerService;
     // private RankListServiceImpl rankListService;
 
     // @Test

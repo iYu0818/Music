@@ -1,5 +1,4 @@
 package com.example.iYu.config;
-
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -16,9 +15,16 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import org.springframework.data.redis.serializer.RedisSerializationContext;
 import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
-
 import java.time.Duration;
 
+
+/**
+* @Description:  redis配置类
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/4/5
+*/
 @EnableCaching //开启缓存注解
 @Configuration
 public class RedisConfig extends CachingConfigurerSupport {

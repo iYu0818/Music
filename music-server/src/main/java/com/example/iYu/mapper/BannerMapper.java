@@ -4,10 +4,11 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.example.iYu.model.domain.Banner;
 
 /**
-* @author asus
-* @description 针对表【banner】的数据库操作Mapper
-* @createDate 2022-06-13 13:13:42
-* @Entity generator.domain.Banner
+* @Description:  横幅mapper
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/2/23
 */
 public interface BannerMapper extends BaseMapper<Banner> {
 

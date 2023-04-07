@@ -8,9 +8,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author 祝英台炸油条
- * @Time : 2022/6/13 13:16
- **/
+* @Description:  横幅controller
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/3/23
+*/
 @RestController
 @RequestMapping("/banner")
 public class BannerController {

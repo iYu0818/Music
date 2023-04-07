@@ -2,21 +2,28 @@ package com.example.iYu.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.example.iYu.common.R;
-import com.example.iYu.model.domain.Consumer;
-import com.example.iYu.model.request.ConsumerRequest;
+import com.example.iYu.model.domain.User;
+import com.example.iYu.model.request.UserRequest;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.http.HttpSession;
 
-public interface ConsumerService extends IService<Consumer> {
+/**
+* @Description:
+* @Param:
+* @return:
+* @Author: 程煜
+* @Date: 2023/2/26
+*/
+public interface UserService extends IService<User> {
 
-    R addUser(ConsumerRequest registryRequest);
+    R addUser(UserRequest registryRequest);
 
-    R updateUserMsg(ConsumerRequest updateRequest);
+    R updateUserMsg(UserRequest updateRequest);
 
     R updateUserAvator(MultipartFile avatorFile, int id);
 
-    R updatePassword(ConsumerRequest updatePasswordRequest);
+    R updatePassword(UserRequest updatePasswordRequest);
 
     boolean existUser(String username);
 
@@ -28,6 +35,6 @@ public interface ConsumerService extends IService<Consumer> {
 
     R userOfId(Integer id);
 
-    R loginStatus(ConsumerRequest loginRequest, HttpSession session);
+    R loginStatus(UserRequest loginRequest, HttpSession session);
 
 }
